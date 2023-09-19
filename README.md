@@ -9,4 +9,5 @@ TypeScript /
 Redux Toolkit / 
 RTK Query / 
 Redux Thunk / 
-jsonServer
+jsonServer / 
+Axios
